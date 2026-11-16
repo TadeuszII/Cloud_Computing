@@ -1,0 +1,5 @@
+.env
+volume/
+*.zip
+__pycache__/
+.obsidian/
